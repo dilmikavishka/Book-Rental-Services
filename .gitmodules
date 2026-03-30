@@ -1,0 +1,9 @@
+[submodule "books-service"]
+	path = books-service
+	url = https://github.com/dilmikavishka/books-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/dilmikavishka/user-service.git
+[submodule "rental-service"]
+	path = rental-service
+	url = https://github.com/dilmikavishka/rental-service.git
