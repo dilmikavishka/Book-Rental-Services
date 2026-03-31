@@ -3,7 +3,7 @@ module.exports = {
     {
       name: "book-service",
       script: "java",
-      args: "-jar book-service/target/books-service-0.0.1-SNAPSHOT.jar",
+      args: "-jar books-service/target/books-service-0.0.1-SNAPSHOT.jar",
       log_file: "./logs/book-service.log",
       instances: 2
     },
