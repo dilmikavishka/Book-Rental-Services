@@ -21,7 +21,7 @@ module.exports = {
       script: "java",
       args: "-jar rental-service/target/rental-service-0.0.1-SNAPSHOT.jar",
       log_file: "./logs/rental-service.log",
-      instances: 2
+      instances: 1
     }
   ]
 }
